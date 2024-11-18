@@ -1,0 +1,14 @@
+C:\Users\chiba\OneDrive\Рабочий стол\мага\Csharp\source\repos\Lab11\bin\Debug\net8.0\Lab11.exe
+C:\Users\chiba\OneDrive\Рабочий стол\мага\Csharp\source\repos\Lab11\bin\Debug\net8.0\Lab11.deps.json
+C:\Users\chiba\OneDrive\Рабочий стол\мага\Csharp\source\repos\Lab11\bin\Debug\net8.0\Lab11.runtimeconfig.json
+C:\Users\chiba\OneDrive\Рабочий стол\мага\Csharp\source\repos\Lab11\bin\Debug\net8.0\Lab11.dll
+C:\Users\chiba\OneDrive\Рабочий стол\мага\Csharp\source\repos\Lab11\bin\Debug\net8.0\Lab11.pdb
+C:\Users\chiba\OneDrive\Рабочий стол\мага\Csharp\source\repos\Lab11\obj\Debug\net8.0\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiba\OneDrive\Рабочий стол\мага\Csharp\source\repos\Lab11\obj\Debug\net8.0\Lab11.AssemblyInfoInputs.cache
+C:\Users\chiba\OneDrive\Рабочий стол\мага\Csharp\source\repos\Lab11\obj\Debug\net8.0\Lab11.AssemblyInfo.cs
+C:\Users\chiba\OneDrive\Рабочий стол\мага\Csharp\source\repos\Lab11\obj\Debug\net8.0\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\chiba\OneDrive\Рабочий стол\мага\Csharp\source\repos\Lab11\obj\Debug\net8.0\Lab11.dll
+C:\Users\chiba\OneDrive\Рабочий стол\мага\Csharp\source\repos\Lab11\obj\Debug\net8.0\refint\Lab11.dll
+C:\Users\chiba\OneDrive\Рабочий стол\мага\Csharp\source\repos\Lab11\obj\Debug\net8.0\Lab11.pdb
+C:\Users\chiba\OneDrive\Рабочий стол\мага\Csharp\source\repos\Lab11\obj\Debug\net8.0\Lab11.genruntimeconfig.cache
+C:\Users\chiba\OneDrive\Рабочий стол\мага\Csharp\source\repos\Lab11\obj\Debug\net8.0\ref\Lab11.dll
